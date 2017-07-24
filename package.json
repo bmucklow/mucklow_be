@@ -1,6 +1,7 @@
 {
   "name": "mucklow-be",
   "version": "0.1.0",
+  "start": "node server.js",
   "dependencies": {
     "express": "^4.15.3"
   }
