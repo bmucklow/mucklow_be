@@ -1,0 +1,7 @@
+{
+  "name": "mucklow-be",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
