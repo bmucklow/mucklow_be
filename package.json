@@ -1,7 +1,11 @@
 {
   "name": "mucklow-be",
   "version": "0.1.0",
-  "start": "node server.js",
+  "author": "Blaine Mucklow <bmucklow@gmail.com>",
+  "main": "server.js",
+  "scripts":{
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.15.3"
   }
